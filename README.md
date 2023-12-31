@@ -1,16 +1,22 @@
-### Hi there 👋
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+### 👋 Hi there, I'm nin0dev!
+📑 **About me:**
+- he/him pronouns
+- student
+- Canadian
 
-<!--
-**nin0-dev/nin0-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Programming skills:**
+- Python
+- Kotlin
+- HTML/CSS/JS
+- C++
+- C#
 
-Here are some ideas to get you started:
+📊 **Statistics:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nin0-dev)
+
+📨 **Reach me at:**
+- `nin0.dev` (discord)
+- [support@nin0dev.com](mailto:support@nin0dev.com)
+

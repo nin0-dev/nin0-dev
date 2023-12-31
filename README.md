@@ -1,4 +1,3 @@
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 ### 👋 Hi there, I'm nin0dev!
 📑 **About me:**
 - he/him pronouns

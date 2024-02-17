@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm nin0dev!
 
-*made with [cnrad/lanyard-profile-readme]
-
 📑 **About me:**
 - he/him pronouns
 - student

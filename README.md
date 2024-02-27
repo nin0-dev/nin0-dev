@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm nin0dev!
 
+## Check https://git.nin0dev.com for all my projects.
+
 📑 **About me:**
 - he/him pronouns
 - student

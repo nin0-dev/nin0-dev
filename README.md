@@ -1,16 +1,10 @@
 ### 👋 Hi there, I'm nin0dev!
 
-📑 **About me:**
-- he/him pronouns
-- student
-- Canadian
+> [!IMPORTANT]  
+> The nin0dev.com is now **defunct**. It will be out of my control within a month. My new domain is https://nin0.dev.
 
-💻 **Programming skills:**
-- Python
-- Kotlin
-- HTML/CSS/JS
-- C++
-- C#
+📑 **About me:**
+Go read https://nin0.dev.
 
 📊 **Statistics:**
 
@@ -18,5 +12,5 @@
 
 📨 **Reach me at:**
 - `nin0.dev` (discord)
-- [support@nin0dev.com](mailto:support@nin0dev.com)
+- [support@nin0.dev](mailto:support@nin0.dev)
 

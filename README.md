@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 100%; opacity: 1; background-size: 100% auto; background: url('https://github.com/mantikafasi/mantikafasi/assets/75569739/fdb70a8e-a93a-4cc0-90f8-620d3de9c5a3'); background-repeat: no-repeat; z-index: 10000;]{x0000}$}
-```
-
 ### 👋 Hi there, I'm nin0dev!
 
 > [!IMPORTANT]  
@@ -14,7 +10,9 @@ Go read https://nin0.dev.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nin0-dev)
 
-📨 **Reach me at:**
-- `nin0.dev` (discord)
-- [support@nin0.dev](mailto:support@nin0.dev)
+```math
+\ce{$\unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/nin0-dev/nin0-dev/assets/75569739/6ebcaf01-ea4d-42ec-93e1-fcaa1ef3d0a9');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
+```
+
 

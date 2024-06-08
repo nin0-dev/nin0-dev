@@ -19,6 +19,6 @@ z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100% ;point
 ```math
 \mmlToken{ms}[fontfamily="
 madebycubiquwu; // good work tbh ngl
-color:red; z-index: 1; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);
+color:red; z-index: -8; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);
 "]{}
 ```

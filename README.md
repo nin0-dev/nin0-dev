@@ -13,6 +13,12 @@ Go read https://nin0.dev.
 ```math
 \mmlToken{ms}[fontfamily="
 madebycubiquwu; // good work tbh ngl
-z-index: -1; position: fixed; top: 0; left: 0; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/nin0-dev/nin0-dev/assets/75569739/9f5c11ca-e9dd-4f45-bfd1-08f5499f2006');background-size:20% 20%;
+z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/nin0-dev/nin0-dev/assets/75569739/9f5c11ca-e9dd-4f45-bfd1-08f5499f2006');background-size:20% 20%;
+"]{}
+```
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu; // good work tbh ngl
+color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);
 "]{}
 ```

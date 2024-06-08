@@ -11,6 +11,6 @@ Go read https://nin0.dev.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nin0-dev)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/nin0-dev/nin0-dev/assets/75569739/9f5c11ca-e9dd-4f45-bfd1-08f5499f2006');]{x0000}$}
-\ce{$&#x5C;unicode[goombafont; color:red; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
+\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Vendicated/Vendicated/assets/45497981/b20cacf7-6dac-4281-a29d-5d7a8ed31ee0');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
 ```

@@ -6,7 +6,7 @@ Go read https://nin0.dev.
 💻 **More code:**
 
 * Most of my personal projects that I actively maintain can be found on my [Forgejo](https://git.nin0.dev).
-* A few are also on my [Codeberg profile](https://codeberg.org/nin0.dev).
+* A few are also on my [Codeberg profile](https://codeberg.org/nin0dev).
 
 📊 **Statistics:**
 

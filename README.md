@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm nin0dev!
+### 👋 Hi there, I'm nin0!
 
 📑 **About me:**
 Go read https://nin0.dev.
